@@ -1,0 +1,8 @@
+spaceone-core
+spaceone-api
+schematics
+aliyun-python-sdk-core-v3
+aliyun-python-sdk-ecs
+aliyun-python-sdk-ess
+aliyun-python-sdk-slb
+aliyun-python-sdk-vpc
